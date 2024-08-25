@@ -1,7 +1,5 @@
 <div align="center">
     <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%" height="500px" alt="GitHub Readme Background">
-
-
   <h1>Hi there, I'm Muhammad Asim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <h3>A passionate frontend developer from Pakistan</h3>
 </div>
