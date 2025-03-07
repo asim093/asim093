@@ -63,10 +63,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expressjs/expressjs-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/expressjs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://piyushvscode.gallerycdn.vsassets.io/extensions/piyushvscode/nodejs-snippets/0.0.2/1575178663150/Microsoft.VisualStudio.Services.Icons.Default" alt="nodejs" width="40" height="40"/> 
   </a> 
      <a href="https://mongodb.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
